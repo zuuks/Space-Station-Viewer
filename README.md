@@ -14,7 +14,6 @@ Add your screenshots to `public/screenshots/` and update the links below:
 | Tour focus (module) | ![Tour focus](public/screenshots/tour-focus.png) |
 | Clickable info panel | ![Info panel](public/screenshots/info-panel.png) |
 
-> Tip: take screenshots at 1920×1080 for best results.
 
 ## Features
 - Orbit controls (rotate / zoom / pan)
@@ -124,5 +123,4 @@ Then paste your URL into the **Live Demo** section at the top.
 - The scene uses postprocessing bloom; if performance is an issue, reduce bloom strength or disable it by default.
 - `station/buildStation.js` returns references used by tour/animation; this keeps the animation loop clean and centralized.
 
-## License
-Choose a license (MIT is common) and add it here.
+
